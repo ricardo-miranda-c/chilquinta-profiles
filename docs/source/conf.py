@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Lumache'
+project = 'Chilquinta profiles'
 copyright = '2025, THD'
 author = 'Ricardo Miranda'
 
