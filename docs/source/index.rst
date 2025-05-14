@@ -1,19 +1,44 @@
-Chilquinta profiles documentation
+Scenario-Based Optimization of Renewable Energy Systems: A Calliope-Based Study on Different Electrical Profiles
+
+v0.1.0
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+``Scenario-Based Optimization of Renewable Energy Systems: A Calliope-Based Study on Different Electrical Profiles`` 
+is a project that aims to optimize the design of renewable energy systems using scenario-based optimization techniques.
+The project is built on the Calliope framework, which is a flexible and extensible modeling framework for energy systems.
+The project focuses on the optimization of renewable energy systems in the context of different electrical profiles,
+including the integration of battery storage systems and the analysis of different demand profiles.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+The project includes the following features:
+- Scenario-based optimization of renewable energy systems
+- Integration of battery storage systems
+- Analysis of different demand profiles
+- Clustering of demand profiles
+- Modification of demand profiles
+- Optimization engine for solving the optimization problem
+- Results analysis and visualization
+
+.. note::
+   The project includes the following features:
+     - Scenario-based optimization of renewable energy systems
+     - Integration of battery storage systems
+     - Analysis of different demand profiles
+     - Clustering of demand profiles
+     - Modification of demand profiles
+     - Optimization engine for solving the optimization problem
+     - Results analysis and visualization
+   
+.. image:: docs/source/Battery.jpg
+   :alt: Battery distribution
+   :width: 400px
+   :align: center
+
 
 .. note::
 
-   This project is under active development.
+   This project is a work in progress and is not yet complete. The project is under active development and new features
+   will be added in the future.
 
-Contents
 --------
 
 .. toctree::
