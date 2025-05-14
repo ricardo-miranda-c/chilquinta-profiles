@@ -20,6 +20,8 @@ enhancing its overall performance and economic viability.
    :width: 400px
    :align: center
 
+----------------------
+
 Scenario 2: PV + battery
 ----------
 This scenario, which involves the installation of a photovoltaic (PV) plant
@@ -37,6 +39,8 @@ and shape of the load profile.
    :alt: Battery distribution
    :width: 400px
    :align: center
+
+----------------------
 
 Scenario 3: PV + battery + grid connection
 ----------
@@ -56,6 +60,8 @@ on each profile's load characteristics, such as peak demand and consumption beha
    :width: 400px
    :align: center
 
+----------------------   
+
 Scenario 4: PV + battery + grid connection + clustering.
 ----------
 
@@ -69,7 +75,9 @@ This formulation and objective function is described in :doc:`clustering`
    :width: 400px
    :align: center
 
-Scenario 5
+----------------------   
+
+Scenario 5: PV + battery + grid connection + modified demand (random weekly repetition).
 ----------
 The modification of this scenario aims to analyze the behavior of both demand and model outputs when
 a randomly selected week from each demand profile is duplicated to replace all other weeks throughout the year.
@@ -81,3 +89,5 @@ This formulation is described in :doc:`demand_analysis`.
    :alt: Battery distribution
    :width: 400px
    :align: center
+
+----------------------   
