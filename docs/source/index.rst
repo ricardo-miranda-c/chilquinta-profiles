@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Chilquinta profiles documentation
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
@@ -17,6 +17,18 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 2
+   :caption: Contents
 
-   usage
-   api
+   installation
+   overview
+   data_preprocessing
+   model_structure
+   scenarios
+   optimization_engine
+   results_analysis
+   clustering
+   demand_modification
+   parameters
+   api_reference
+   changelog
