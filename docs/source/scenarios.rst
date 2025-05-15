@@ -15,8 +15,8 @@ as previously mentioned, whereas the grid connection is unrestricted—ensuring 
 Additionally, the PV system is allowed to sell surplus energy back to the grid,
 enhancing its overall performance and economic viability.
 
-.. image:: docs/img/E1.jpg
-   :alt: Battery distribution
+.. image:: C:/Users/rmiranda/Desktop/chilquinta-profiles/docs/img/E1.png
+   :alt: Scenario E1
    :width: 400px
    :align: center
 
@@ -35,8 +35,8 @@ The storage capacity is determined by the level of overproduction, allowing the 
 However, because there is no grid connection to cover shortfalls, unmet demand may occur, depending on the variability
 and shape of the load profile.
 
-.. image:: docs/img/E2.jpg
-   :alt: Battery distribution
+.. image:: C:/Users/rmiranda/Desktop/chilquinta-profiles/docs/img/E2.png
+   :alt: Scenario E2
    :width: 400px
    :align: center
 
@@ -55,8 +55,8 @@ improving the system's economic performance.
 As with previous scenarios, the decision on the optimal installed capacity—whether from the PV plant or the grid—depends
 on each profile's load characteristics, such as peak demand and consumption behavior.
 
-.. image:: docs/img/E3.jpg
-   :alt: Battery distribution
+.. image:: C:/Users/rmiranda/Desktop/chilquinta-profiles/docs/img/E3.png
+   :alt: Scenario E3
    :width: 400px
    :align: center
 
@@ -70,8 +70,8 @@ the demand is subjected to a Calliope native clustering operation. The main func
 the energy optimization of systems where specifically there is seasonal storage and complex temporal dynamics.
 This formulation and objective function is described in :doc:`clustering`
 
-.. image:: docs/img/E4.jpg
-   :alt: Battery distribution
+.. image:: C:/Users/rmiranda/Desktop/chilquinta-profiles/docs/img/E4.png
+   :alt: Scenario E4
    :width: 400px
    :align: center
 
@@ -85,8 +85,8 @@ To achieve this, a custom script was developed to randomly select a week from ea
 profiles with the same ID, which can then be compared with the original profiles.
 This formulation is described in :doc:`demand_analysis`.
 
-.. image:: docs/img/E5.jpg
-   :alt: Battery distribution
+.. image:: C:/Users/rmiranda/Desktop/chilquinta-profiles/docs/img/E5.png
+   :alt: Scenario E5
    :width: 400px
    :align: center
 

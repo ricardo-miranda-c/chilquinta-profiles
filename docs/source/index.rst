@@ -4,7 +4,6 @@ Scenario-Based Optimization of Renewable Energy Systems: A Calliope-Based Study 
 v0.1.0
 ---------
 
-
 **Scenario-Based Optimization of Renewable Energy Systems: A Calliope-Based Study on Different Electrical Profiles** 
 This project is designed to manage, run, and analyze models related to five energy scenarios for the years 2024 and 2025 
 based on 6.615 electrical profiles from a Chilean electrican distribution company.
@@ -22,9 +21,13 @@ including the integration of battery storage systems and the analysis of differe
      - Optimization engine for solving the optimization problem
      - Results analysis and visualization
    
-.. image:: docs/img/Battery.jpg
+.. image:: C:/Users/rmiranda/Desktop/chilquinta-profiles/docs/img/Battery.jpg
    :alt: Battery distribution
-   :width: 400px
+   :width: 800px
+   :align: center
+.. image:: C:/Users/rmiranda/Desktop/chilquinta-profiles/docs/img/Supply.jpg
+   :alt: Supply distribution
+   :width: 800px
    :align: center
 
 .. note::
@@ -40,13 +43,10 @@ including the integration of battery storage systems and the analysis of differe
 
    installation
    overview
-   data_preprocessing
    model_structure
-   scenarios
-   optimization_engine
-   results_analysis
-   clustering
-   demand_modification
    parameters
-   api_reference
+   scenarios
+   key_metrics
+   clustering
+   results
    changelog

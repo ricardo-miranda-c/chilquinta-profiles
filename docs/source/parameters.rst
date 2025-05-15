@@ -11,7 +11,7 @@ Model Parameters
 | Battery   | -                   | 100            | 15               | 10                | 288                      | 10                        | 270                   | -                |
 +-----------+---------------------+----------------+------------------+-------------------+--------------------------+---------------------------+-----------------------+------------------+
 
-
+----------------------
 
 **PV panels simulation parameters**
 
@@ -37,6 +37,12 @@ Model Parameters
 | Dataset     | Merra2   | -           |
 +-------------+----------+-------------+
 
+.. image:: C:/Users/rmiranda/Desktop/chilquinta-profiles/docs/img/PV_2024.jpg
+   :alt: Photovoltaic behavior
+   :width: 600px
+   :align: center
+
+----------------------
 
 **Costs referred to the electricity consumer groups (G1, G2 and G3) in Chile for the years 2024 and 2025.**
 
