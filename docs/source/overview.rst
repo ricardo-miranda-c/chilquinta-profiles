@@ -58,6 +58,9 @@ The figure below shows a scatter plot of the profiles, with **annual energy cons
    :width: 800px
    :align: center
 
+Groups
+~~~~
+
 This study classifies electricity demand profiles into three distinct groups based on the Chilean electricity market
 regulation for *free customers*: **G1**, **G2**, and **G3**.
 

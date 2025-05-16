@@ -6,7 +6,7 @@ v0.1.0
 
 **Scenario-Based Optimization of Renewable Energy Systems: A Calliope-Based Study on Different Electrical Profiles** 
 This project is designed to manage, run, and analyze models related to five energy scenarios for the years 2024 and 2025 
-based on 6.615 electrical profiles from a Chilean electrican distribution company.
+based on 6.617 electrical profiles from a Chilean electrican distribution company.
 The project is built on the Calliope framework, which is a flexible and extensible modeling framework for energy systems.
 The project focuses on the optimization of renewable energy systems in the context of different electrical profiles,
 including the integration of battery storage systems and the analysis of different demand profiles.
@@ -21,14 +21,10 @@ including the integration of battery storage systems and the analysis of differe
      - Optimization engine for solving the optimization problem
      - Results analysis and visualization
    
-.. image:: C:/Users/rmiranda/Desktop/chilquinta-profiles/docs/img/Battery.jpg
-   :alt: Battery distribution
-   :width: 800px
-   :align: center
-.. image:: C:/Users/rmiranda/Desktop/chilquinta-profiles/docs/img/Supply.jpg
-   :alt: Supply distribution
-   :width: 800px
-   :align: center
+.. raw:: html
+
+    <iframe src="_static/E3_timeseries.html" width="700" height="600"></iframe>
+    
 
 .. note::
 

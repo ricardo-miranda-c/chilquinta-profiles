@@ -83,7 +83,7 @@ The modification of this scenario aims to analyze the behavior of both demand an
 a randomly selected week from each demand profile is duplicated to replace all other weeks throughout the year.
 To achieve this, a custom script was developed to randomly select a week from each profile and generate new
 profiles with the same ID, which can then be compared with the original profiles.
-This formulation is described in :doc:`demand_analysis`.
+This formulation is described in :ref:`Optimization objective option <optimization-objective>`.
 
 .. image:: C:/Users/rmiranda/Desktop/chilquinta-profiles/docs/img/E5.png
    :alt: Scenario E5

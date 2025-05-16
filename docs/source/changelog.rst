@@ -1,8 +1,9 @@
 Changelog
 =========
 
-v1.0.0
-------
+v1.0
+-----
+
 - Initial release
 - 6617 profiles processed
 - Five scenarios defined
