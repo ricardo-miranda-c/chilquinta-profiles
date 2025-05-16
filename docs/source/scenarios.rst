@@ -15,7 +15,7 @@ as previously mentioned, whereas the grid connection is unrestricted—ensuring 
 Additionally, the PV system is allowed to sell surplus energy back to the grid,
 enhancing its overall performance and economic viability.
 
-.. image:: C:/Users/rmiranda/Desktop/chilquinta-profiles/docs/img/E1.png
+.. image:: img/E1.png
    :alt: Scenario E1
    :width: 400px
    :align: center
